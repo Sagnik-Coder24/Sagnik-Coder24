@@ -1,4 +1,4 @@
 ### Hello World 👋
 
 - 🔭 I’m currently working on securing a job
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning react.js and DSA
