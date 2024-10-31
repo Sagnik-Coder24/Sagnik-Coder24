@@ -14,32 +14,6 @@
 </table>
 
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 2; padding-right: 20px;">
-    <p>Hello World! 🌍<br>
-    Currently working on enhancing personal skills and knowledge.<br>
-    Learning React.js and Data Structures and Algorithms (DSA) to improve proficiency.<br>
-    Open for opportunities to work on challenging projects and collaborate with other developers.<br>
-    Holds a degree in Applied Electronics and Instrumentation Engineering.<br>
-    Proficient in several programming languages like JavaScript, Python, Java, C++, and more.<br>
-    Over 2 years of experience as a Software Engineer.<br>
-    Passionate about problem-solving, website development, and exploring new technologies.<br>
-    Open to networking and connecting with like-minded individuals in the tech community.<br>
-    Fun Fact: I once built a fully functional front-end website in under 24 hours!<br><br>
-    Thank you for visiting my GitHub profile!
-    </p>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" style="width: 100%;">
-  </div>
-</div>
-
-
-
-
-
-
-
 
 <!---
 # 💫 About Me:
