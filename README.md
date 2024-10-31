@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello World! 🖐️<br>🌱 Currently working on enhancing personal skills and knowledge.<br>📚 Learning React.js and Data Structures and Algorithms (DSA) to improve proficiency.<br>💼 Open for opportunities to work on challenging projects and collaborate with other developers.<br>🎓 Holds a degree in Applied Electronics and Instrumentation Engineering.<br>💻 Proficient in several programming languages like JavaScript, Python, Java, C++, and more.<br>🛠️ Over 2 years of experience as a Software Engineer.<br>🔍 Passionate about problem-solving, website development, and exploring new technologies.<br>🤝 Open to networking and connecting with like-minded individuals in the tech community.<br>🚀 Fun Fact: I once built a fully functional front-end website in under 24 hours!<br><br>Thank you for visiting my GitHub profile!
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sag-lyf)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/sag_lyf)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/@sag_lyf)
