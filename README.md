@@ -35,8 +35,9 @@ Hello World! <img align='top' src="https://emojis.slackmojis.com/emojis/images/1
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sagnik-Coder24&limit=5&theme=outrun&combine_all_yearly_contributions=true)
+<div align="center">### 🔝 Top Contributed Repo</div>
+<!--![](https://github-contributor-stats.vercel.app/api?username=Sagnik-Coder24&limit=5&theme=outrun&combine_all_yearly_contributions=true)-->
+<p align="center"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=Sagnik-Coder24&limit=5&theme=outrun&combine_all_yearly_contributions=true" alt="Sagnik-Coder24" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sagnik-Coder24&icon=7&color=0)](https://visitcount.itsvg.in)
