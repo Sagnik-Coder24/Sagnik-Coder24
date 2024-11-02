@@ -15,7 +15,6 @@ Hello World! <img align='top' src="https://emojis.slackmojis.com/emojis/images/1
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/@sag_lyf)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sag_lyf)
 [![Medium](https://img.shields.io/badge/Medium-%2300AB6C.svg?logo=Medium&logoColor=white&style=for-the-badge)](https://medium.com/@gosagnik)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/ElectronicPeanut9436)
 
 
 # 💻 Tech Stack:
