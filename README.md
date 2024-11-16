@@ -3,7 +3,7 @@
 
 # <img align='centre' src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30" height="30" /> About Me:
 Hello World! <img align='top' src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="25" />
-<br>🌱 Currently working on enhancing personal skills and knowledge.<br>📚 Learning React.js and Data Structures and Algorithms (DSA) to improve proficiency.
+<br>🌱 Currently working on enhancing personal skills and knowledge.<br>📚 Learning MERN stack and Data Structures and Algorithms (DSA) to improve proficiency.
 <img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20%">
 <br>💼 Open for opportunities to work on challenging projects and collaborate with other developers.<br>🎓 Holds a degree in Applied Electronics and Instrumentation Engineering.<br>💻 Proficient in several programming languages like JavaScript, Python, Java, C++, and more.<br>🛠️ Over 2 years of experience as a Software Engineer.<br>🔍 Passionate about problem-solving, website development, and exploring new technologies.<br>🤝 Open to networking and connecting with like-minded individuals in the tech community.<br>🚀 Fun Fact: I once built a fully functional front-end website in under 24 hours!<br><br>Thank you for visiting my GitHub profile!
 
