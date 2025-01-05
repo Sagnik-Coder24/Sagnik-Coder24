@@ -12,6 +12,7 @@ Hello World! <img align='top' src="https://emojis.slackmojis.com/emojis/images/1
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sag-lyf)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/@sag_lyf)
+[![Website](https://img.shields.io/badge/Website-%2300A0A0.svg?logo=google-chrome&logoColor=white&style=for-the-badge)](https://sagnik-ghosh.netlify.app/)
 [![Medium](https://img.shields.io/badge/Medium-%2300AB6C.svg?logo=Medium&logoColor=white&style=for-the-badge)](https://medium.com/@gosagnik)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/sag_lyf)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sag_lyf)
